@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    padding: 0.5em;
+}
+
+#cronometro{
+    border: 3px solid black;
+    width: 250px;
+    padding: 15px;
+    margin: auto;
+    background-color: pink;
+    text-align: center;
+}
+
+#reloj {
+    text-align: center;
+    border: 1px solid black;
+    padding: center;
+    background-color: white;
+    font: bold 2em digital, europa, arial;
+    margin: 4px;
+    width: center;
+}
+
+#cronometro [type=button] {
+    margin: 4px;
+    color: whitesmoke;
+    background-color: black;
+    font: normal 9pt arial;
+    height: 30px;
+    padding: 8px;
+    margin: 0pt;
+    
+
+}
